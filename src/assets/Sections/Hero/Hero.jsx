@@ -62,7 +62,7 @@ function Hero() {
           <a href="https://pin.it/13ac03s39" target="_blank">
             <img src={pins} alt="pintrest" />
           </a>
-          <a href="https://pin.it/13ac03s39" target="_blank">
+          <a href="https://www.instagram.com/djsmash_x/" target="_blank">
             <img src={instagram} alt="Instagram" />
           </a>
         </span>
