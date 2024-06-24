@@ -45,7 +45,7 @@ function Hero() {
         <h2>Frontend Editor</h2>
         <span>
           <a
-            href="www.youtube.com/channel/UCF7LXcNubHew7EHXUiaoEUQ?sub_confirmation=1"
+            href="https://www.youtube.com/channel/UCF7LXcNubHew7EHXUiaoEUQ"
             target="_blank"
           >
             <img src={twitterIcon} alt="youtube" />
