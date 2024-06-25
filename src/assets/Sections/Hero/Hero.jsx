@@ -13,7 +13,7 @@ import instaLight from "../../../assets/icons8-instagram-light.svg";
 import instaDark from "../../../assets/icons8-instagram-dark.svg";
 import githubLight from "../../../assets/github-light.svg";
 import githubDark from "../../../assets/github-dark.svg";
-import CV from "../../../assets/cv.pdf";
+import CV from "../../../assets/resume.pdf";
 import { useTheme } from "../../../Common/ThemeContex";
 
 function Hero() {
